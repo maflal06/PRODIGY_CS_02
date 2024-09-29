@@ -1,2 +1,0 @@
-[Key.shift] [Key.print_screen] [Key.shift] [Key.print_screen] h q werty
-[Key.shift_r] [Key.backspace] [Key.esc] 
